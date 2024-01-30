@@ -1,3 +1,5 @@
 aka.ms
 login.windows.net
 login.microsoftonline.com
+.update.microsoft.com
+.delivery.mp.microsoft.com
