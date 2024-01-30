@@ -1,0 +1,3 @@
+aka.ms
+login.windows.net
+login.microsoftonline.com
