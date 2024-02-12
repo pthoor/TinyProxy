@@ -71,12 +71,33 @@ www.microsoft.com/security/encyclopedia/adlpackages.aspx
 .smartscreen-prod.microsoft.com
 .smartscreen.microsoft.com
 
+# Defender for Endpoint EU
+europe.x.cp.wd.microsoft.com
+eu.vortex-win.data.microsoft.com
+eu-v20.events.data.microsoft.com
+winatp-gw-neu.microsoft.com
+winatp-gw-weu.microsoft.com
+winatp-gw-neu3.microsoft.com
+winatp-gw-weu3.microsoft.com
+automatedirstrprdneu.blob.core.windows.net
+automatedirstrprdweu.blob.core.windows.net
+automatedirstrprdneu3.blob.core.windows.net
+automatedirstrprdweu3.blob.core.windows.net
+usseu1northprod.blob.core.windows.net
+wseu1northprod.blob.core.windows.net
+usseu1westprod.blob.core.windows.net
+wseu1westprod.blob.core.windows.net
+
 # Defender for Identity
 .atp.azure.com
 crl.microsoft.com
 ctldl.windowsupdate.com
 www.microsoft.com/pkiops/
 www.microsoft.com/pki/
+
+# Azure Monitor Agent
+.handler.control.monitor.azure.com
+.ods.opinsights.azure.com
 
 # Microsoft Monitoring Agent
 .ods.opinsights.azure.com
