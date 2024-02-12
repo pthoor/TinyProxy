@@ -96,6 +96,7 @@ www.microsoft.com/pkiops/
 www.microsoft.com/pki/
 
 # Azure Monitor Agent
+.monitoring.azure.com
 .handler.control.monitor.azure.com
 .ods.opinsights.azure.com
 
